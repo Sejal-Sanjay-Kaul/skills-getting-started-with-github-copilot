@@ -61,6 +61,7 @@ All data is stored in memory, which means data will be reset when the server res
 - Sign up for an activity using your email.
 - View available activities and their schedules.
 - See the number of participants in each activity.
+- Enjoy a modern, responsive web interface with improved colors and layout.
 
 ## How to Contribute
 
